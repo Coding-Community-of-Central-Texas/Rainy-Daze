@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# OS Files
+.DS_Store
+Thumbs.db
+.vscode/
