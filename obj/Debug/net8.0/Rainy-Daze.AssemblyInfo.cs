@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rainy-Daze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a3aa4cfeac5a3db0574cc76111eab5b66070fc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+953a3c257e1c76ef609ae47695eb14a308621467")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rainy-Daze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rainy-Daze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
