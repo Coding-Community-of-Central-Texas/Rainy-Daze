@@ -1,2 +1,2 @@
-﻿using var game = new Rainy_Daze.Game1();
+﻿using var game = new RainyDaze.Game1();
 game.Run();
